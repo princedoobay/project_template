@@ -1,4 +1,8 @@
 flask
 pandas
-numpy 
+numpy
+sklearn
+PyYAML
+dill
+urllib
 -e .
